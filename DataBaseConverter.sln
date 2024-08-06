@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseConverter", "DataBaseConverter\DataBaseConverter.csproj", "{6BAE5393-214D-45AD-8463-A9BDD5D07BC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BAE5393-214D-45AD-8463-A9BDD5D07BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAE5393-214D-45AD-8463-A9BDD5D07BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAE5393-214D-45AD-8463-A9BDD5D07BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAE5393-214D-45AD-8463-A9BDD5D07BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E86F6E31-76B8-462F-A5D6-DDA738556AE7}
+	EndGlobalSection
+EndGlobal
